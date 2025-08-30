@@ -1,6 +1,3 @@
-# FlashDev
-FlashDev is an open-source tool to detect flash crypto transactions in blockchain networks. It flags ultra-fast, high-volume transfers often linked to flash loans, arbitrage, or exploits. Built with Python and Web3.py, it helps researchers, developers, and learners monitor, analyze, and secure decentralized systems.
-\
 
 # FlashDev 🚀  
 
@@ -25,3 +22,25 @@ Flash transactions are ultra-fast, often high-volume transactions that can somet
 
 ---
 
+
+🎯 Use Cases
+
+Security researchers analyzing blockchain threats
+
+Developers studying blockchain transaction behaviors
+
+Learners exploring anomaly detection in crypto
+
+Early alert system for potential flash loan exploits
+
+🤝 Contributing
+
+Contributions are welcome! If you have ideas for improving detection algorithms, supporting new chains, or adding visual dashboards, feel free to open an issue or submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License – free to use, modify, and share.
+
+💡 Inspiration
+
+FlashDev was built with the vision of making blockchain ecosystems safer by democratizing security tools for everyone.
